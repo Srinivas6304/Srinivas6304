@@ -22,7 +22,7 @@ currently pursuing B.Tech 3rd year Information Technology
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+   Sri
 </head>
 <body>
     <div>
