@@ -24,7 +24,7 @@ currently pursuing B.Tech 3rd year Information Technology
 </head>
 <body>
     <div>
-        <img src="imges.gif" alt="Sri">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemRoeHVoYno5YnJhOXpnd3RtbHhsZW5yMXhjYmRmdDdoeWZwcGtiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Sri">
     </div>
     
 </body>
